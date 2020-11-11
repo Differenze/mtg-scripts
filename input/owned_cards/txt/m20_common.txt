@@ -1,0 +1,152 @@
+4 Blood Burglar
+4 Sage's Row Denizen
+4 Netcaster Spider
+4 Canopy Spider
+4 Daybreak Chaplain
+4 Agonizing Syphon
+4 Titanic Growth
+4 Imperial Outrider
+4 Hostile Minotaur
+4 Phantom Warrior
+4 Octoprophet
+4 Befuddle
+4 Show of Valor
+4 Stone Golem
+4 Disenchant
+4 Battalion Foot Soldier
+4 Growth Cycle
+4 Prowling Caracal
+4 Mammoth Spider
+4 Act of Treason
+4 Anticipate
+4 Ferocious Pup
+4 Wildfire Elemental
+4 Faerie Miscreant
+4 Maniacal Rage
+4 Sleep Paralysis
+4 Wolfkin Bond
+4 Woodland Mystic
+4 Sorcerer of the Fang
+4 Chandra's Embercat
+4 Take Vengeance
+4 Pacifism
+4 Blossoming Sands
+4 Soulmender
+4 Unholy Indenture
+4 Fortress Crab
+4 Negate
+4 Angelic Gift
+4 Gorging Vulture
+4 Pack Mastiff
+4 Scoured Barrens
+4 Shock
+4 Skeleton Archer
+4 Lavakin Brawler
+4 Inspired Charge
+4 Bartizan Bats
+4 Boreal Elemental
+4 Plummet
+4 Epicure of Blood
+4 Fire Elemental
+4 Silverback Shaman
+4 Dawning Angel
+4 Nimble Birdsticker
+4 Thicket Crasher
+4 Moat Piranhas
+4 Goblin Bird-Grabber
+4 Concordia Pegasus
+4 Vial of Dragonfire
+4 Daggersail Aeronaut
+4 Savannah Sage
+4 Griffin Protector
+4 Dark Remedy
+4 Prismite
+4 Soul Salvage
+4 Aerial Assault
+4 Frost Lynx
+4 Fathom Fleet Cutthroat
+4 Reckless Air Strike
+4 Impassioned Orator
+4 Murder
+4 Trusted Pegasus
+4 Siege Mastodon
+4 Marauder's Axe
+4 Frilled Sandwalla
+4 Tranquil Cove
+4 Raise the Alarm
+4 Bristling Boar
+4 Vorstclaw
+4 Unsummon
+4 Infuriate
+4 Moment of Heroism
+4 Vivien's Crocodile
+4 Bastion Enforcer
+4 Disentomb
+4 Bone Splinters
+4 Swiftwater Cliffs
+4 Natural End
+4 Keldon Raider
+4 Leafkin Druid
+4 Celestial Messenger
+4 Fearless Halberdier
+4 Goblin Assailant
+4 Steadfast Sentry
+4 Wind-Scarred Crag
+4 Goblin Smuggler
+4 Coral Merfolk
+4 Sedge Scorpion
+4 Inspiring Captain
+4 Jungle Hollow
+4 Bloodfell Caves
+4 Moorland Inquisitor
+4 Savage Gorger
+4 Dismal Backwater
+4 Yoked Ox
+4 Anvilwrought Raptor
+4 Boneclad Necromancer
+4 Tectonic Rift
+4 Bogstomper
+4 Evolving Wilds
+4 Bladebrand
+4 Barony Vampire
+4 Rubblebelt Recluse
+4 Feral Abomination
+4 Frilled Sea Serpent
+4 Convolute
+4 Mind Rot
+4 Prized Unicorn
+4 Duress
+4 Scorch Spitter
+4 Squad Captain
+4 Undead Servant
+4 Sorin's Thirst
+4 Feral Invocation
+4 Ripscale Predator
+4 Griffin Sentinel
+4 Healer of the Glade
+4 Vampire Opportunist
+4 Oakenform
+4 Gift of Paradise
+4 Destructive Digger
+4 Zephyr Charge
+4 Glaring Aegis
+4 Bone to Ash
+4 Brightwood Tracker
+4 Audacious Thief
+4 Cloudkin Seer
+4 Heart-Piercer Bow
+4 Ironclad Krovod
+4 Centaur Courser
+4 Greenwood Sentinel
+4 Chandra's Outrage
+4 Thornwood Falls
+4 Snapping Drake
+4 Sanitarium Skeleton
+4 Rugged Highlands
+4 Rabid Bite
+4 Engulfing Eruption
+4 Walking Corpse
+4 Haazda Officer
+4 Metropolis Sprite
+4 Reduce to Ashes
+4 Winged Words
