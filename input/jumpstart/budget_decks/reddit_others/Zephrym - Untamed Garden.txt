@@ -1,0 +1,15 @@
+1 Bramblecrush
+1 Explosive Vegetation
+1 Fertilid
+7 Forest
+1 Ivy Elemental
+1 Leafkin Druid
+1 Overgrowth Elemental
+1 Rampant Growth
+1 Spawnwrithe
+1 Thriving Grove
+1 Vinelasher Kudzu
+1 Vines of Vastwood
+1 Vorstclaw
+1 Woodborn Behemoth
+
